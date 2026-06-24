@@ -16,9 +16,8 @@
 ---
 
 ### 📚 No momento estou focado em:
-* ☕ **Desenvolvimento Java** e Programação Orientada a Objetos (POO).
-* 🌐 **Sistemas e Infraestrutura de TIC**.
-* 🐍 Praticar e evoluir a lógica que comecei a ver em Python.
-* 🛠️ Dominar o uso do Git para organizar meus repositórios.
+* ☕ Linguagem Java e os fundamentos de Orientação a Objetos.
+*🐍 Lógica de Programação e scripts práticos com Python.
+*🛠️ Git e GitHub para organizar e documentar meus códigos.
 
 > *"A consistência supera o talento. Um commit de cada vez."*
