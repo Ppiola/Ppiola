@@ -16,8 +16,8 @@
 ---
 
 ### 📚 No momento estou focado em:
-* ☕ Linguagem Java e os fundamentos de Orientação a Objetos.
-*🐍 Lógica de Programação e scripts práticos com Python.
-*🛠️ Git e GitHub para organizar e documentar meus códigos.
+* ☕ **Linguagem Java** e os fundamentos de Orientação a Objetos.
+* 🐍 **Lógica de Programação** e scripts práticos com Python.
+* 🛠️ **Git e GitHub** para organizar e documentar meus códigos.
 
 > *"A consistência supera o talento. Um commit de cada vez."*
